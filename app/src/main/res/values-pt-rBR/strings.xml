@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bit Talk</string>
+    <string name="sign_up">Inscrever-se</string>
+    <string name="password">Senha</string>
+    <string name="sign_in">Entrar</string>
+    <string name="field_empty">Este campo não pode estar vazio</string>
+    <string name="settings">Configurações</string>
+    <string name="sign_out">Sair</string>
+    <string name="ask_sign_out">Você tem certeza que deseja sair?</string>
+    <string name="search">Pesquisa</string>
+    <string name="add_contact">Adicionar Contato</string>
+    <string name="contacts">Contatos</string>
+    <string name="conversations">Conversas</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirme a Senha</string>
+    <string name="type_here">Digite aqui...</string>
+    <string name="unread_messages">Mensagens não lidas</string>
+    <string name="new_messages">Você tem novas mensagens</string>
+    <string name="unknown_error">Erro desconhecido</string>
+    <string name="passwords_do_not_match">As senhas não correspondem</string>
+    <string name="success_on_create_user">Sucesso em criar usuário</string>
+    <string name="success_on_save_user">Sucesso em salvar usuário</string>
+    <string name="add_email_contact">Digite abaixo o e-mail da pessoa que deseja adicionar</string>
+    <string name="email_empty">O campo de email está vazio</string>
+    <string name="new_contact">Novo contato:</string>
+    <string name="user_not_found">Usuário não encontrado</string>
+    <string name="success">Sucesso</string>
+</resources>
